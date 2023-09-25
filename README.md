@@ -2,12 +2,9 @@
 # osmosis-cl-bot
 Bot to manage supercharged positions on Osmosis.
 
-Features:
+Features: (Work in progress)
 
-
-
-Here's one of my bots for proof:
-
+Here's one of my bots for proof:  (Work in progress)
 
 ## Table of Contents
 - [Features](#features)
