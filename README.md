@@ -1,12 +1,13 @@
+
 # osmosis-cl-bot
-Bot to manage supercharged positions on Osmosis
+Bot to manage supercharged positions on Osmosis.
 
 Features:
-(WIP)
+
 
 
 Here's one of my bots for proof:
-(WIP)
+
 
 ## Table of Contents
 - [Features](#features)
@@ -18,7 +19,7 @@ Here's one of my bots for proof:
 - [TODO](#todo)
 
 ## Request code access
-- This bot took me a while to create and therefore the code is private. [DM me for a price if you are serious.](https://twitter.com/jasbanza)
+- This bot took me a while to create and therefore the code is private. [DM me for a price if you are serious.](https://linktr.ee/jasbanza)
 - It has an MIT license, so you're free to do what you like with the code once you have it.
 - I might not continue development. See the [disclaimer](#disclaimer)
 
@@ -52,9 +53,10 @@ Here's one of my bots for proof:
 
 ## Installation:
 
-1. Fork the repo:
+1. ~~Fork the repo:~~
+    This repo is now private. If you want the code, [DM me for a price if you are serious.](https://linktr.ee/jasbanza)
     ```bash
-    git clone https://github.com/jasbanza/osmosis-cl-bot.git
+    git clone https://github.com/jasbanza/async-retry-handler.git
     ```
 
 2. Install necessary dependancies by running the following in the forked directory:
@@ -191,4 +193,3 @@ Please use the Bot responsibly and consider seeking advice from qualified profes
 
 #### LOG TO DB
 - [ ] Log all actions / position performance to database, so that we quickly determine performance and any issues.
-
