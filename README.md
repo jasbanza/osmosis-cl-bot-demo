@@ -53,7 +53,7 @@ Here's one of my bots for proof:  (Work in progress)
 1. ~~Fork the repo:~~
     This repo is now private. If you want the code, [DM me for a price if you are serious.](https://linktr.ee/jasbanza)
     ```bash
-    git clone https://github.com/jasbanza/async-retry-handler.git
+    git clone https://github.com/jasbanza/osmosis-cl-bot.git
     ```
 
 2. Install necessary dependancies by running the following in the forked directory:
